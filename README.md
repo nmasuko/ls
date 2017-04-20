@@ -1,6 +1,6 @@
 # ls
 list command implementation for rust
 
-#how to use
+# how to build
 
 cargo build
