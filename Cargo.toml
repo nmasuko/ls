@@ -1,0 +1,6 @@
+[package]
+name = "ls"
+version = "0.1.0"
+authors = ["nmasuko <nmasuko62@gmail.com>"]
+
+[dependencies]
